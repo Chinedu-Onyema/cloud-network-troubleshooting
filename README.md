@@ -96,5 +96,5 @@ Access your instances via Session Manager and execute the following troubleshoot
    <PRE>sudo tcpdump -nn port 80</PRE>
 
    On Instance A: Send test traffic to Instance B's public IP:
-   <PRE>curl -I pubkic-ip-of-instance-b</PRE>
+   <PRE>curl -I public-ip-of-instance-b</PRE>
    
