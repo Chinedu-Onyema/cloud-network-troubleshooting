@@ -16,7 +16,7 @@ This phase provides a comprehensive, hands-on guide to utilizing seven essential
 
 ### STEP-BY-STEP DEPLOYMENT AND TROUBLESHOOTING GUIDE
 
-##### STEP 1: PROVISION INFRASTRUCTURE AND SECURITY GROUPS
+#### STEP 1: PROVISION INFRASTRUCTURE AND SECURITY GROUPS
   
 1) Launch Two EC2 Instances:
    Create two Amazon Linux instances named cloud-network-troubleshooting-a and cloud-network-troubleshooting-b.
